@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* ! Home */
+
+
+.main{
+   background-image: url("./main_imgs/img4.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  height:100vh;
+}
+
+.welcome1{
+  
+  background: rgba(0, 0, 0, 0.623);
+
+}
