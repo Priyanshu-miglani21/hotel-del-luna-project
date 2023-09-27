@@ -1,8 +1,8 @@
-#Hotel Del Luna - Online Hotel/Room Reservation System
+# Hotel Del Luna - Online Hotel/Room Reservation System :hotel:
 
 Welcome to Hotel Del Luna, your one-stop solution for online hotel and room reservations! Whether you're planning a vacation or a business trip, our MERN stack-powered platform makes booking your stay a breeze.
 
-##About Hotel Del Luna
+## About Hotel Del Luna
 Hotel Del Luna is an online hotel and room reservation system designed to simplify the process of booking accommodations for your trips. It offers a user-friendly interface for both guests and hotel administrators. With Hotel Del Luna, you can:
 
 Search for hotels and rooms based on your preferences, such as location, price range, and amenities.
